@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "One Dark Pro Vivid",
+    "workbench.colorTheme": "Monokai Dimmed",
     "files.exclude": {
         "repos/**": true
     },
@@ -11,5 +11,14 @@
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "[html]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+    "workbench.colorCustomizations": {},
+    "workbench.iconTheme": "ayu",
+    "git.confirmSync": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.menuBarVisibility": "toggle",
+    "workbench.startupEditor": "none",
+    "window.restoreWindows": "all"
 }
