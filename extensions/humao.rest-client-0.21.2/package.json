@@ -625,7 +625,7 @@
 		"encodeurl": "^1.0.1",
 		"filesize": "^3.3.0",
 		"fs-extra": "^5.0.0",
-		"highlight.js": "^9.6.0",
+		"highlight.js": "^10.1.2",
 		"http-proxy-agent": "^2.1.0",
 		"https-proxy-agent": "^2.2.1",
 		"httpsnippet": "^1.16.5",
